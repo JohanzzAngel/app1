@@ -3,7 +3,7 @@ package ejemplo;
 public class Principal {
 
 	public static void main(String[] args) {
-		System.out.println("Hola a todos :)");
+		System.out.println("Hola a todos, como estan :)");
 
 	}
 
